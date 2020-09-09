@@ -18,8 +18,6 @@ elif operand == "/":
 else: 
     print("Please enter a proper answer!")
 
-#math = int(num1) + operand + int(num2)
-#print(math)
 
 
 #even odd
