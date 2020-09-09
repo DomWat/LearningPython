@@ -26,7 +26,7 @@ def calculate_tip(total, percentage):
 
 tip = calculate_tip(100, 30)
 if tip >= 15:
-    print("Wow you're amazing!")
+    print("Wow you're amazing!")  
 elif tip >= 5 and tip <= 10:
     print("Thank you")
 else:
